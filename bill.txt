@@ -1,0 +1,8 @@
+----- BILL RECEIPT -----
+
+Chicken Biryani -1 = Rs.220
+Egg Fried Rice -1 = Rs.130
+
+Subtotal: Rs.350.00
+GST (5%): Rs.17.50
+Total: Rs.367.50
